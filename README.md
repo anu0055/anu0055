@@ -20,10 +20,10 @@
 
 ### 📬 Connect With Me:
 <p align="left">
-<a href="https://linkedin.com/in/anubhav-utkarsh" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://kaggle.com/anubhav-utkarsh" target="blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-<a href="https://www.hackerrank.com/au0055" target="blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-<a href="https://www.leetcode.com/code-beginer" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="https://www.linkedin.com/in/anubhav-utkarsh-288442237/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.kaggle.com/anubhavutkarsh" target="blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://www.hackerrank.com/profile/au0055" target="blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+<a href="https://www.leetcode.com/u/Code-Beginer" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
 ---
